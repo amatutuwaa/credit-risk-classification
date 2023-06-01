@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 
 This project focuses on analyzing credit risk using machine learning models. The goal is to build a logistic regression model to predict the risk of loan default based on financial data. The analysis involves splitting the data, training the model, evaluating its performance, and writing a credit risk analysis report.
 
