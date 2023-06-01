@@ -28,5 +28,5 @@ The following question was answered in the notebook: How well does the logistic 
 
 ## Write a Credit Risk Analysis Report
 
-After the analysis performed in the botebook i write a brief report that includes a summary and analysis of the performance of the machine learning models that was used in this project. This can be found in the `Credit Risk Analysis Report.md' file in the project's repo. 
+After the analysis performed in the botebook i write a brief report that includes a summary and analysis of the performance of the machine learning models that was used in this project. This can be found in the `Credit Risk Analysis Report.md` file in the project's repo. 
 
